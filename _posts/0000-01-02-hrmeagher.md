@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+As nice bot told me: ✨ *pretty and witty and gay* ✨
 Use the left arrow to go back!
